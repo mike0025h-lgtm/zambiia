@@ -1,0 +1,22 @@
+{
+  "name": "Starlink Reseller",
+  "short_name": "Starlink",
+  "description": "High-speed satellite internet packages",
+  "start_url": "/starlink/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "screenshots": []
+}
